@@ -61,6 +61,9 @@ public class Driver {
         course1.setStudents(compStudents);
         course2.setStudents(engStudents);
         
+        course1.addModule(new Module("Algorithms","A101"));
+        
+        student1.addModule(new Module("French Introduction", "FR101"));
         
         System.out.println(course1);
         System.out.println(course2);
