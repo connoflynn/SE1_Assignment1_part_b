@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.github.connoflynn</groupId>
 	    <artifactId>SE3_Assingment1</artifactId>
-	    <version>1.2</version>
+	    <version>1.4</version>
         </dependency>
     </dependencies>
     <properties>
